@@ -17,8 +17,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/?isSelfProfile=true" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://hossamcodes.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://hossamcodes.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000" height="40"/></a>
+
+
 </a>
 
 </p>
