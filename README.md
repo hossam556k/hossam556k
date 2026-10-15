@@ -1,58 +1,69 @@
+<!-- ========== HEADER ========== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0B2A4A,100:0D96F6&height=220&section=header&text=Hossam%20Osama&fontSize=56&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=iOS%20Developer%20%C2%B7%20WordPress%20Developer&descSize=18&descAlignY=60&descAlign=50" alt="Hossam Osama"/>
+
 <div align="center">
 
-<br/>
-
-<h1>Hossam Osama</h1>
-
-<p>iOS Developer &nbsp;·&nbsp; WordPress Developer</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=480&height=30&lines=Building+native+iOS+apps+with+SwiftUI;Crafting+clean+WordPress+%26+WooCommerce+sites" alt="Typing SVG"/>
+<a href="https://hossamcodes.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=0D96F6&center=true&vCenter=true&width=650&height=40&lines=Building+native+iOS+apps+with+Swift+%26+SwiftUI;Clean+architecture+%C2%B7+MVVM+%C2%B7+SwiftData;Custom+WordPress+%26+WooCommerce+solutions;Turning+ideas+into+polished+products" alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
-<a href="https://hossamcodes.com/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=8B949E" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=8B949E" alt="LinkedIn"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=8B949E" alt="Email"/></a>
+<a href="https://hossamcodes.com/"><img src="https://img.shields.io/badge/Portfolio-hossamcodes.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=0D96F6&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/"><img src="https://img.shields.io/badge/LinkedIn-Hossam%20Osama-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-### About
+<!-- ========== ABOUT ========== -->
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=100000&color=E6EDF3&vCenter=true&width=200&height=30&lines=About+Me" alt="About Me" height="30"/>
 
-I build native iOS apps with **Swift & SwiftUI**, and professional websites and online stores with **WordPress**.
-I care about clean code, thoughtful design, and products that feel simple to use.
+I'm a developer who builds **native iOS apps** with Swift & SwiftUI and **professional WordPress websites** for businesses and online stores. I focus on clean code, smooth user experience, and shipping products that work.
 
-- Currently working as a **WordPress Developer**
-- Learning **advanced SwiftUI, SwiftData, and Swift Concurrency**
-- Open to **iOS and WordPress projects**, freelance or remote
+```swift
+struct Developer {
+    let name       = "Hossam Osama"
+    let role       = ["iOS Developer", "WordPress Developer"]
+    let currently  = "Working as a WordPress Developer"
+    let learning   = ["Advanced SwiftUI", "SwiftData", "Swift Concurrency"]
+    let openTo     = ["iOS Projects", "WordPress & WooCommerce", "Remote Roles"]
+    let location   = "Egypt 🇪🇬"
+
+    func motto() -> String {
+        "Always learning. Always building."
+    }
+}
+```
 
 <br/>
 
-### What I Do
+<!-- ========== WHAT I DO ========== -->
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=100000&color=E6EDF3&vCenter=true&width=220&height=30&lines=What+I+Do" alt="What I Do" height="30"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**iOS**
-
-Swift & SwiftUI<br/>
-MVVM architecture<br/>
-SwiftData<br/>
-Networking with async/await<br/>
-Firebase
+### 📱 iOS Development
+- Native apps with **Swift & SwiftUI**
+- **MVVM** & clean architecture
+- Local persistence with **SwiftData**
+- Networking with **async/await** & **Codable**
+- **Firebase** integration
+- Cross-platform apps with **Flutter**
 
 </td>
 <td width="50%" valign="top">
 
-**WordPress**
-
-Custom themes & Elementor<br/>
-WooCommerce stores<br/>
-Performance optimization<br/>
-Responsive, SEO-friendly sites<br/>
-Custom PHP
+### 🌐 WordPress Development
+- Custom themes & **Elementor** builds
+- **WooCommerce** online stores
+- Custom functionality with **PHP**
+- Speed & performance optimization
+- Responsive, **SEO-friendly** websites
+- **MySQL** database management
 
 </td>
 </tr>
@@ -60,24 +71,70 @@ Custom PHP
 
 <br/>
 
-### Tools
+<!-- ========== TECH STACK ========== -->
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=100000&color=E6EDF3&vCenter=true&width=220&height=30&lines=Tech+Stack" alt="Tech Stack" height="30"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=swift,apple,firebase,wordpress,php,mysql,js,html,css,git,github,figma&theme=dark&perline=12" alt="Tech stack"/>
-</p>
+<div align="center">
+
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=swift,apple,flutter,dart,firebase&theme=dark" alt="Mobile"/>
+
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/SwiftData-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+
+<br/><br/>
+
+**🌐 Web & WordPress**
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css,js,bootstrap&theme=dark" alt="Web"/>
+
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+
+<br/><br/>
+
+**🛠 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
+
+</div>
 
 <br/>
 
-### Activity
+<!-- ========== GITHUB STATS ========== -->
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=100000&color=E6EDF3&vCenter=true&width=260&height=30&lines=GitHub+Analytics" alt="GitHub Analytics" height="30"/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hossam556k&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0D96F6&icon_color=0D96F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam556k&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0D96F6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=hossam556k&hide_border=true&background=0D1117&ring=0D96F6&fire=0D96F6&currStreakLabel=0D96F6&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hossam556k&bg_color=0D1117&color=0D96F6&line=0D96F6&point=E6EDF3&area=true&area_color=0D96F6&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution activity" src="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<br/><br/>
-
-<div align="center">
-<sub>Always learning. Always building.</sub>
 </div>
+
+<br/>
+
+<!-- ========== FOOTER ========== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+great+together." alt="Footer typing"/>
+
+<img src="https://komarev.com/ghpvc/?username=hossam556k&color=0D96F6&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,60:0B2A4A,100:0D1117&height=120&section=footer&animation=twinkling" alt="footer"/>
