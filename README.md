@@ -2,8 +2,7 @@
 <div align="center">
 
 <a href="https://hossamcodes.com/">
-  <img src="./assets/header.svg" width="760" alt="Hossam Osama — iOS Developer & WordPress Developer"/>
-</a>
+<img src="./header.svg" width="760"</a>
 
 <br/><br/>
 
