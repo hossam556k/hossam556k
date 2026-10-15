@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-label="Hossam Osama — iOS Developer and WordPress Developer">
+  <defs>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, "Liberation Mono", monospace; }
+
+      .in   { opacity: 0; animation: fadeUp .9s cubic-bezier(.2,.8,.2,1) forwards; }
+      .d1 { animation-delay: .1s; }  .d2 { animation-delay: .35s; }
+      .d3 { animation-delay: .6s; }  .d4 { animation-delay: .8s; }
+      .d5 { animation-delay: 1s; }   .d6 { animation-delay: 1.3s; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+      .float  { animation: float 5s ease-in-out infinite; }
+      .floatB { animation: float 6s ease-in-out infinite; animation-delay: -2s; }
+      .floatC { animation: float 7s ease-in-out infinite; animation-delay: -4s; }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+
+      .orbA { animation: drift 12s ease-in-out infinite; }
+      .orbB { animation: drift 14s ease-in-out infinite reverse; }
+      @keyframes drift { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-30px,18px); } }
+
+      .card { opacity: 0; animation: card 9s ease-in-out infinite; }
+      .c1 { animation-delay: .6s; } .c2 { animation-delay: 1s; } .c3 { animation-delay: 1.4s; }
+      @keyframes card {
+        0%      { opacity: 0; transform: translateX(18px); }
+        8%, 82% { opacity: 1; transform: translateX(0); }
+        92%,100%{ opacity: 0; transform: translateX(0); }
+      }
+
+      .btn { animation: btn 2.4s ease-in-out infinite; }
+      @keyframes btn { 0%,100% { opacity: 1; } 50% { opacity: .65; } }
+
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="420" y2="0">
+      <stop offset="0"   stop-color="#E6EDF3"/>
+      <stop offset="0.45" stop-color="#E6EDF3"/>
+      <stop offset="0.5" stop-color="#58B4FF"/>
+      <stop offset="0.55" stop-color="#E6EDF3"/>
+      <stop offset="1"   stop-color="#E6EDF3"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-420 0; 420 0" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1B2129" stroke-width="1"/>
+    </pattern>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+
+    <clipPath id="frame"><rect width="840" height="340" rx="18"/></clipPath>
+
+    <clipPath id="t1"><rect x="60" y="215" height="18" width="0">
+      <animate attributeName="width" values="0;0;190;190;0" keyTimes="0;0.04;0.16;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t2"><rect x="60" y="235" height="18" width="0">
+      <animate attributeName="width" values="0;0;320;320;0" keyTimes="0;0.2;0.36;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t3"><rect x="60" y="255" height="18" width="0">
+      <animate attributeName="width" values="0;0;380;380;0" keyTimes="0;0.4;0.58;0.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- background -->
+    <rect width="840" height="340" fill="#0D1117"/>
+    <rect width="840" height="340" fill="url(#grid)" opacity=".6"/>
+    <g class="orbA"><circle cx="700" cy="150" r="120" fill="#0D96F6" opacity=".22" filter="url(#blur)"/></g>
+    <g class="orbB"><circle cx="140" cy="320" r="110" fill="#21759B" opacity=".2" filter="url(#blur)"/></g>
+
+    <!-- intro -->
+    <text class="mono in d1" x="48" y="68" font-size="13" letter-spacing="3" fill="#8B949E">HELLO, I'M</text>
+    <text class="in d2" x="46" y="116" font-size="46" font-weight="700" fill="url(#nameGrad)">Hossam Osama</text>
+
+    <!-- role pills -->
+    <g class="in d3">
+      <rect x="48" y="136" width="128" height="28" rx="14" fill="#0D96F6" fill-opacity=".12" stroke="#0D96F6" stroke-opacity=".6"/>
+      <text x="112" y="155" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle">iOS Developer</text>
+      <rect x="186" y="136" width="170" height="28" rx="14" fill="#4FA3D9" fill-opacity=".1" stroke="#4FA3D9" stroke-opacity=".55"/>
+      <text x="271" y="155" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle">WordPress Developer</text>
+    </g>
+
+    <!-- terminal -->
+    <g class="in d4">
+      <rect x="48" y="184" width="470" height="100" rx="10" fill="#161B22" stroke="#30363D"/>
+      <circle cx="64" cy="199" r="4" fill="#FF5F57"/>
+      <circle cx="78" cy="199" r="4" fill="#FEBC2E"/>
+      <circle cx="92" cy="199" r="4" fill="#28C840"/>
+
+      <text class="mono" x="60" y="229" font-size="13" clip-path="url(#t1)">
+        <tspan fill="#0D96F6">$</tspan><tspan fill="#C9D1D9"> swift run Portfolio</tspan>
+      </text>
+      <text class="mono" x="60" y="249" font-size="13" clip-path="url(#t2)">
+        <tspan fill="#3FB950">✓</tspan><tspan fill="#C9D1D9"> Swift · SwiftUI · SwiftData · MVVM</tspan>
+      </text>
+      <text class="mono" x="60" y="269" font-size="13" clip-path="url(#t3)">
+        <tspan fill="#3FB950">✓</tspan><tspan fill="#C9D1D9"> WordPress · WooCommerce · PHP · Elementor</tspan>
+      </text>
+      <rect class="cursor" x="402" y="258" width="8" height="15" fill="#0D96F6"/>
+    </g>
+
+    <!-- availability -->
+    <g class="in d5">
+      <circle cx="56" cy="310" r="4" fill="#3FB950">
+        <animate attributeName="opacity" values="1;.5;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="56" cy="310" r="4" fill="none" stroke="#3FB950">
+        <animate attributeName="r" values="4;11" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".7;0" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="70" y="315" font-size="13" fill="#8B949E">Available for iOS &amp; WordPress projects</text>
+    </g>
+
+    <!-- phone -->
+    <g transform="translate(624 30)">
+      <g class="float">
+        <g class="in d3">
+          <rect x="0" y="0" width="150" height="280" rx="28" fill="#0B0F14" stroke="#3A424D" stroke-width="2"/>
+          <rect x="8" y="8" width="134" height="264" rx="21" fill="#0D1117"/>
+          <rect x="55" y="16" width="40" height="12" rx="6" fill="#000"/>
+
+          <text x="21" y="56" font-size="14" font-weight="700" fill="#E6EDF3">My Apps</text>
+
+          <g class="card c1">
+            <rect x="20" y="68" width="110" height="42" rx="10" fill="#161B22" stroke="#30363D"/>
+            <circle cx="38" cy="89" r="9" fill="#F05138"/>
+            <rect x="54" y="81" width="52" height="6" rx="3" fill="#C9D1D9"/>
+            <rect x="54" y="93" width="34" height="5" rx="2.5" fill="#484F58"/>
+          </g>
+          <g class="card c2">
+            <rect x="20" y="118" width="110" height="42" rx="10" fill="#161B22" stroke="#30363D"/>
+            <circle cx="38" cy="139" r="9" fill="#21759B"/>
+            <rect x="54" y="131" width="60" height="6" rx="3" fill="#C9D1D9"/>
+            <rect x="54" y="143" width="28" height="5" rx="2.5" fill="#484F58"/>
+          </g>
+          <g class="card c3">
+            <rect x="20" y="168" width="110" height="42" rx="10" fill="#161B22" stroke="#30363D"/>
+            <circle cx="38" cy="189" r="9" fill="#0D96F6"/>
+            <rect x="54" y="181" width="44" height="6" rx="3" fill="#C9D1D9"/>
+            <rect x="54" y="193" width="38" height="5" rx="2.5" fill="#484F58"/>
+          </g>
+
+          <g class="btn">
+            <rect x="20" y="226" width="110" height="30" rx="15" fill="#0D96F6"/>
+            <text x="75" y="246" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Build &amp; Ship</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- floating chips -->
+    <g class="in d5"><g class="floatB">
+      <rect x="548" y="66" width="62" height="26" rx="13" fill="#161B22" stroke="#F05138" stroke-opacity=".7"/>
+      <text class="mono" x="579" y="83" font-size="11.5" fill="#F0A08F" text-anchor="middle">Swift</text>
+    </g></g>
+    <g class="in d6"><g class="floatC">
+      <rect x="536" y="226" width="80" height="26" rx="13" fill="#161B22" stroke="#0D96F6" stroke-opacity=".7"/>
+      <text class="mono" x="576" y="243" font-size="11.5" fill="#79C0FF" text-anchor="middle">SwiftUI</text>
+    </g></g>
+    <g class="in d6"><g class="floatB">
+      <rect x="738" y="250" width="92" height="26" rx="13" fill="#161B22" stroke="#4FA3D9" stroke-opacity=".7"/>
+      <text class="mono" x="784" y="267" font-size="11.5" fill="#9CCBEA" text-anchor="middle">WordPress</text>
+    </g></g>
+    <g class="in d5"><g class="floatC">
+      <rect x="770" y="90" width="52" height="26" rx="13" fill="#161B22" stroke="#8B7BD8" stroke-opacity=".7"/>
+      <text class="mono" x="796" y="107" font-size="11.5" fill="#B9AEF0" text-anchor="middle">PHP</text>
+    </g></g>
+
+    <!-- frame border -->
+    <rect x=".5" y=".5" width="839" height="339" rx="18" fill="none" stroke="#30363D"/>
+  </g>
+</svg>
