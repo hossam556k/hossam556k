@@ -9,7 +9,7 @@
 
 <a href="https://hossamcodes.com/"><img src="https://img.shields.io/badge/Portfolio-hossamcodes.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=0D96F6&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/"><img src="https://img.shields.io/badge/LinkedIn-Hossam%20Osama-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" alt="Email"/></a>
+<a href="hossamosamaa63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" alt="Email"/></a>
 
 </div>
 
@@ -20,7 +20,6 @@
 
 I'm a developer who builds **native iOS apps** with Swift & SwiftUI and **professional WordPress websites** for businesses and online stores. I focus on clean code, smooth user experience, and shipping products that work.
 
-```swift
 struct Developer {
     let name       = "Hossam Osama"
     let role       = ["iOS Developer", "WordPress Developer"]
@@ -33,7 +32,7 @@ struct Developer {
         "Always learning. Always building."
     }
 }
-```
+
 
 <br/>
 
