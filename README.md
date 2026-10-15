@@ -114,9 +114,6 @@ struct Developer {
 
 <img src="https://streak-stats.demolab.com?user=hossam556k&hide_border=true&background=0D1117&ring=0D96F6&fire=0D96F6&currStreakLabel=0D96F6&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hossam556k&bg_color=0D1117&color=0D96F6&line=0D96F6&point=E6EDF3&area=true&area_color=0D96F6&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
@@ -133,7 +130,7 @@ struct Developer {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+great+together." alt="Footer typing"/>
 
-<img src="https://komarev.com/ghpvc/?username=hossam556k&color=0D96F6&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hossam556k.hossam556k&left_text=Profile%20Views&left_color=%230D1117&right_color=%230D96F6" alt="Profile views"/>
 
 </div>
 
