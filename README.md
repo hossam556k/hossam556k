@@ -1,93 +1,138 @@
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D96F6,100:21759B&height=200&section=header&text=Hossam%20Osama&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20WordPress%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Hossam Osama"/>
+
 <div align="center">
 
-# Hossam Osama
-
-**iOS & Flutter Developer · WordPress Developer**
-
 <a href="https://hossamcodes.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+native+iOS+apps+with+Swift+%26+SwiftUI;Cross-platform+apps+with+Flutter;Custom+WordPress+%26+WooCommerce+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0D96F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Native+iOS+apps+with+Swift+%26+SwiftUI;Clean+architecture+%E2%80%A2+MVVM+%E2%80%A2+SwiftData;Custom+WordPress+%26+WooCommerce+solutions;Fast%2C+clean%2C+and+user-friendly+products" alt="Typing SVG"/>
 </a>
+
+<br/><br/>
+
+<a href="https://hossamcodes.com/"><img src="https://img.shields.io/badge/Portfolio-hossamcodes.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 <br/>
 
-<a href="https://hossamcodes.com/"><img src="https://img.shields.io/badge/Portfolio-hossamcodes.com-0D1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hossam-osama-44138a3b1/"><img src="https://img.shields.io/badge/LinkedIn-Hossam%20Osama-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+## 👋 About Me
 
-</div>
+I build **native iOS apps** with Swift & SwiftUI and **professional WordPress websites** for businesses and online stores. I care about clean code, smooth user experience, and shipping products that actually work.
 
----
+```swift
+struct Hossam {
+    let role       = ["iOS Developer", "WordPress Developer"]
+    let currently  = "Working as a WordPress Developer"
+    let learning   = ["Advanced SwiftUI", "SwiftData", "Swift Concurrency"]
+    let openTo     = ["iOS projects", "WordPress & WooCommerce freelance", "Remote roles"]
+    let basedIn    = "Egypt 🇪🇬"
+}
+```
 
-## About
+<br/>
 
-I'm a mobile and web developer focused on building clean, reliable, and user-friendly products.
-I develop native iOS applications with **Swift & SwiftUI**, cross-platform apps with **Flutter**, and professional websites and online stores with **WordPress**.
+## 🛠 What I Do
 
-- **Currently:** Working as a WordPress Developer
-- **Learning:** Advanced Swift, SwiftUI architecture, and modern Flutter practices
-- **Open to:** Freelance projects and collaboration on mobile and web products
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📱 iOS Development
+- Native apps with **Swift & SwiftUI**
+- **MVVM** and clean architecture
+- Local data with **SwiftData**
+- Networking with **async/await** & Codable
+- **Firebase** integration
 
-## What I Do
+</td>
+<td width="50%" valign="top">
 
-| Area | Focus |
-|:--|:--|
-| **iOS Development** | Native apps with Swift & SwiftUI, clean architecture, Firebase integration |
-| **Cross-Platform** | Flutter & Dart apps for iOS and Android from a single codebase |
-| **WordPress** | Custom themes, Elementor builds, WooCommerce stores, performance optimization |
+### 🌐 WordPress Development
+- Custom themes & **Elementor** builds
+- **WooCommerce** online stores
+- Speed & performance optimization
+- Responsive, SEO-friendly websites
+- Custom PHP functionality
 
----
+</td>
+</tr>
+</table>
 
-## Tech Stack
+<br/>
 
-**Mobile**
-
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-
-**Web**
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-
----
-
-## GitHub Activity
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top Languages"/>
+**iOS**
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=github-dark-blue" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=swift,apple,firebase&theme=dark" alt="iOS stack"/>
+<br/>
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
+
+<br/><br/>
+
+**Web & WordPress**
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css,js,bootstrap&theme=dark" alt="Web stack"/>
+<br/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
 
 </div>
 
----
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/hossam556k/Pwa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hossam556k&repo=Pwa&theme=github_dark&hide_border=true&title_color=0D96F6&icon_color=0D96F6" alt="Paws app"/>
+</a>
+
+<sub>🐾 <b>Paws</b> — an iOS app to keep track of your pets, built with SwiftUI & SwiftData.</sub>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hossam556k&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&count_private=true&title_color=0D96F6&icon_color=0D96F6" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam556k&layout=compact&hide_border=true&theme=github_dark&langs_count=6&title_color=0D96F6" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=hossam556k&hide_border=true&theme=github-dark-blue&ring=0D96F6&fire=0D96F6&currStreakLabel=0D96F6" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hossam556k/hossam556k/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:0D96F6,100:0D1117&height=120&section=footer&animation=twinkling" alt="footer"/>
 
 <div align="center">
 
 <sub>Always learning. Always building.</sub>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=hossam556k&color=0D96F6&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
