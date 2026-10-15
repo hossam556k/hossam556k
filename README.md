@@ -1,10 +1,8 @@
 <!-- ========== HEADER ========== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0B2A4A,100:0D96F6&height=220&section=header&text=Hossam%20Osama&fontSize=56&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=iOS%20Developer%20%C2%B7%20WordPress%20Developer&descSize=18&descAlignY=60&descAlign=50" alt="Hossam Osama"/>
-
 <div align="center">
 
 <a href="https://hossamcodes.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=0D96F6&center=true&vCenter=true&width=650&height=40&lines=Building+native+iOS+apps+with+Swift+%26+SwiftUI;Clean+architecture+%C2%B7+MVVM+%C2%B7+SwiftData;Custom+WordPress+%26+WooCommerce+solutions;Turning+ideas+into+polished+products" alt="Typing SVG"/>
+  <img src="./assets/header.svg" width="760" alt="Hossam Osama — iOS Developer & WordPress Developer"/>
 </a>
 
 <br/><br/>
@@ -133,5 +131,3 @@ struct Developer {
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hossam556k.hossam556k&left_text=Profile%20Views&left_color=%230D1117&right_color=%230D96F6" alt="Profile views"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,60:0B2A4A,100:0D1117&height=120&section=footer&animation=twinkling" alt="footer"/>
